@@ -18,13 +18,12 @@ The dataset used for this analysis was sourced from Kaggle: Remote Work and Ment
 <li>Work-life balance, Physical Activity, Sleep Quality</li>
 </ul>
   
-### Analysis & Key Insights
-Hybrid work showed the most stable productivity outcomes.
-Remote work can lead to varied productivity and satisfaction, depending on job role and individual circumstances.
-Poor sleep quality and lack of physical activity are correlated with higher stress levels.
+### Analysis & (some) Key Insights
+**Hybrid work** showed the most stable productivity outcomes.<br><br>
+**Remote work** can lead to varied productivity and satisfaction, depending on job role and individual circumstances.<br><br>
+**Poor sleep quality and lack of physical activity** are correlated with higher stress levels.<br><br>
 ### Tools Used
-Python: Pandas, Matplotlib, Seaborn
-Google Colab
+Python: Pandas, Matplotlib, Seaborn, Google Colab
 ### How to Use
 Clone this repository and explore the Jupyter notebooks to reproduce the analysis.
 
